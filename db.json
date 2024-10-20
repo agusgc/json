@@ -1,3 +1,7 @@
 {
-  text: "Prueba"
+  "prueba": [
+    {
+      "text": "Prueba"
+    }
+  ]
 }
